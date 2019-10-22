@@ -1,0 +1,21 @@
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'app-root',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.css']
+})
+export class AppComponent {
+  title = 'finalproject';
+  hidecart=true;
+
+  showCart()
+  {
+    this.hidecart=false;
+  }
+
+  goHome()
+  {
+    this.hidecart=true;
+  }
+}

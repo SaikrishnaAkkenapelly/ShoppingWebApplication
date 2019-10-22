@@ -1,0 +1,8 @@
+[
+ {"name":"Apple", "description":"Eat one everyone keep doctor away!", "price":12.00,"quantity":1,"img":"assets/apple.jpg"},
+ {"name":"Avacado", "description":"Guacamole anyone!", "price":16.00,"quantity":1,"img":"assets/avocado.jpg"},
+ {"name":"Banana", "description":"These are rich in Potassium and easy to peel!", "price":4.00,"quantity":1,"img":"assets/banana.jpg"},
+ {"name":"Cataloupe", "description":"Delicious and refreshing!", "price":3.00,"quantity":1,"img":"assets/cataloupe.jpg"},
+ {"name":"Fig", "description":"OK, not that nutritious but sooo good!", "price":10.00,"quantity":1,"img":"assets/fig.jpg"},
+ {"name":"Grape", "description":"Wine is great, but grapes are even better!", "price":8.00,"quantity":1,"img":"assets/grape.jpg"}
+]
